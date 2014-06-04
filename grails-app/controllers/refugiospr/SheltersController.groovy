@@ -19,6 +19,8 @@ class SheltersController {
         respond sheltersInstance
     }
 
+    def map() {}
+
     def create() {
         respond new Shelters(params)
     }
