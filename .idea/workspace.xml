@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b296c42a-2969-4d42-afca-4a86fd30e769" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/frontpage/Datepicker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/frontpage/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ae.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/af.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ai.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/al.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/am.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/an.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/docs-assets/ico/apple-touch-icon-144-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/apple-touch-icon-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/as.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/at.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/au.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/aw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/az.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/be.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/br.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/brand_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/frontpage/browser_logos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/frontpage/bs-docs-twitter-github.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/by.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/bz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ca.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/carousel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/catalonia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/cc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/cd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/cf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/cg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ci.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/cl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/cm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/cn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/co.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/frontpage/components.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/cr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/cs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/cu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/cv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/cx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/cy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/cz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/da.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/database_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/database_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/database_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/database_save.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/database_table.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/dj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/dk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/dm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/do.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/dz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/eg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/eh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/frontpage/empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/en.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/england.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/er.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/es.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/et.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/eu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/europeanunion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/exclamation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/fam.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/docs-assets/ico/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/fi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/fj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/fk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/frontpage/flags_preview_large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/fm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/fo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/fr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ga.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/grails-plugin-tomcat-7.0.53.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wrapper/grails-wrapper-runtime-2.3.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/grails_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/kickstart/img/grid-18px.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/grid.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/gy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/hk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/hm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/hn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/house.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/hr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ht.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/frontpage/html5css3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/frontpage/html5css3js8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/hu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/id.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/il.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/information.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/io.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/iq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ir.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/is.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/it.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ja.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/jm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/jo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/jp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/jumbotron-narrow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/jumbotron.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/justified-nav.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ke.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/kg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/kh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ki.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/km.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/kn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/kp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/kr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/kw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/kz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/la.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/lb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/lc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/frontpage/less.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/li.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/lk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/lr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/lt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/lu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/lv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ly.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/md.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/me.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ml.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ms.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/my.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/mz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/na.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/navbar-fixed.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/navbar-static.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/navbar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/nb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/nc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ne.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/nf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ng.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ni.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/nl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/nn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/no.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/non-responsive.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/np.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/nr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/nu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/nz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/offcanvas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/om.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/pa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/pe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/pf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/pg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/pk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/pl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/pm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/pn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/pr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/pt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/pw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/py.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/qa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/re.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/rs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ru.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/rw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/scotland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/se.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/shadow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/si.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/sign-in.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/so.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/sorted_asc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/skin/sorted_desc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wrapper/springloaded-1.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/springsource.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/st.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/starter-template.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/sticky-footer-navbar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/sticky-footer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/sz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/tc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/td.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/tf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/tg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/th.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/screenshots/theme.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/tj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/tk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/tl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/tm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/to.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/tr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/tt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/tv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/tw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/tz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ua.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/uk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/um.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/us.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/uy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/uz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/va.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/vc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ve.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/vg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/vi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/vn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/vu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/wales.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/wf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ws.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/ye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/yt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/za.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/zh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/zm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/images/flags/zw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/1. Overview.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/1.1 Quick Start.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/1.1.1 Make sure jQuery plugin is installed.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/1.1.2 Install jQuery UI and Blueprint plugins.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/1.1.3 Edit your Sitemesh layout.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/1.1.4 Edit your GSP page to include jQuery.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/1.1.5 View the page source.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/1.1.6 Now optimize your application.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/10. Security.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/2. Concepts.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/suites/keyboard_navigation/2011.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/suites/mouse_navigation/2011.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/suites/keyboard_navigation/2012.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/suites/mouse_navigation/2012.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/3. Declaring resources.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/3.1 The resource DSL.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/3.1.1 The dependsOn method.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/3.1.2 The resource method.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/3.1.3 The defaultBundle method.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/3.2 Resource artefacts.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/3.3 Config.groovy.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/3.4 Bundling.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/4. Using resources.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/4.1 Linking to CSS, JavaScript etc..gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/4.2 Linking to images.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/4.3 Linking to resources explicitly, bypassing modules.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/4.4 Including pieces of JavaScript code generated at runtime.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_errors/403.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_errors/404.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/5. Overriding resources.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_errors/500.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_errors/503.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/6. Creating custom mappers.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/6.1 Defining a mapper.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/6.2 Mapper phases and priority.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/6.3 Operation.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/6.4 Processing only the right types of files.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/6.5 Adding response headers and intercepting requests.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/7. Writing plugins that use Resources.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/8. Debugging.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/guide/9. Configuration.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/filter/AbstractFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/java/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/java/org/grails/plugin/resources/artefacts/AbstractResourcesArtefactHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/AggregatedResourceMeta.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/AlreadyGzippedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/scaffolding/AsyncController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/templates/scaffolding/AsyncController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/scaffolding/AsyncSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/templates/scaffolding/AsyncSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/AuthorListWriter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/AuthorWriter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/grails-app/resourceMappers/org/grails/plugin/resource/BaseUrlResourceMapper.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/BlockingCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/taglib/kickstart/BootstrapTagLib.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/grails-app/resourceMappers/org/grails/plugin/resource/BundleResourceMapper.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/CSSBundleResourceMeta.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/CSSLinkProcessor.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/grails-app/resourceMappers/org/grails/plugin/resource/CSSPreprocessorResourceMapper.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/grails-app/resourceMappers/org/grails/plugin/resource/CSSRewriterResourceMapper.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/CacheBeanPostProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/CacheConfigArtefactHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/CacheConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/CacheEvict.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/filter/CacheExpressionRootObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/CacheGrailsPlugin.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/filter/CacheOperationContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/CachePut.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/grails-app/taglib/grails/plugin/cache/CacheTagLib.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/compiler/CacheTransformation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/Cacheable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/ChangeLogListWriter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/ChangeLogWriter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/ChangelogXml2Groovy.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/util/ClassUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/testing/CliTests.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/ColumnWriter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/groovy/grails/plugin/cache/ConfigBuilder.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/groovy/grails/plugin/cache/ConfigLoader.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/ContentCacheParameters.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/artifacts/Controller.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/scaffolding/Controller.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/testing/Controller.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/templates/scaffolding/Controller.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/hibernate-3.6.10.15/scripts/CreateHibernateCfgXml.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/scripts/CreateScaffoldController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/scripts/CreateWebXmlConfig.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/CustomCacheKeyGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/groovy/kickstart/CustomDateEditorRegistrar.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/DOCS-LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/DatabaseMigrationGrailsPlugin.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/controllers/grails/plugin/databasemigration/DbdocController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/conf/DbdocUrlMappings.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmChangelogSync.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmChangelogSyncSql.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmChangelogToGroovy.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmClearChecksums.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmCreateChangelog.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmDbDoc.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmDiff.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmDropAll.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmFutureRollbackSql.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmGenerateChangelog.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmGenerateGormChangelog.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmGormDiff.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmListLocks.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmListTags.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmMarkNextChangesetRan.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmPreviousChangesetSql.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmRegisterChangelog.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmReleaseLocks.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmRollback.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmRollbackCount.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmRollbackCountSql.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmRollbackSql.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmRollbackToDate.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmRollbackToDateSql.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmStatus.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmTag.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmUpdate.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmUpdateCount.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmUpdateCountSql.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmUpdateSql.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/DbmValidate.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/grails-app/conf/DefaultCacheConfig.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/groovy/org/codehaus/groovy/grails/scaffolding/DefaultGrailsTemplateGenerator.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/java/org/grails/plugin/resources/artefacts/DefaultResourceMapperClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/java/org/grails/plugin/resources/artefacts/DefaultResourcesClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/filter/DefaultWebKeyGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/grails-app/conf/DefaultWebXmlConfig.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/DevModeSanityFilter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/util/DispositionsUtils.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/artifacts/DomainClass.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/testing/DomainClass.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/java/org/codehaus/groovy/grails/scaffolding/DomainClassPropertyComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/DslBuilder.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/filter/ExpressionEvaluator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/src/groovy/grails/plugin/webxml/FilterManager.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/filter/FilterServletOutputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/artifacts/Filters.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/testing/Filters.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/src/groovy/org/grails/plugins/tomcat/fork/ForkedTomcatServer.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/scripts/GenerateAll.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/scripts/GenerateAsyncController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/scripts/GenerateController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/scripts/GenerateRestfulController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/scripts/GenerateViews.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/testing/Generic.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/GenericResponseWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GormColumn.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GormDatabase.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GormDatabaseTypeConverter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GormDiff.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/GrailsAnnotationCacheOperationSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/GrailsCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/grails-app/services/grails/plugin/cache/GrailsCacheAdminService.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/GrailsCacheManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GrailsChange.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GrailsChangeLogParser.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GrailsClassLoaderResourceAccessor.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/GrailsConcurrentMapCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/GrailsConcurrentMapCacheManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GrailsDiffStatusListener.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GrailsPrecondition.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/java/org/codehaus/groovy/grails/scaffolding/GrailsTemplateGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/GrailsValueWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GroovyAwareStringChangeLogSerializer.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/HTMLListWriter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/HTMLWriter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/util/HalfBakedLegacyLinkGenerator.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/Header.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/HibernateAwareTypeConverter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/hibernate-3.6.10.15/HibernateGrailsPlugin.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/controllers/kickstart/HomeController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/HttpDateFormatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/src/groovy/org/grails/plugins/tomcat/InlineExplodedTomcatServer.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/scripts/InstallJQuery.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/testing/Integration.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/grails-app/conf/JQueryConfig.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/src/groovy/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/grails-app/conf/JQueryPluginResources.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/src/groovy/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/grails-app/taglib/JQueryResourceTagLib.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/grails-app/services/JQueryService.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/grails-app/taglib/JQueryTagLib.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/JavaScriptBundleResourceMeta.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/JqueryGrailsPlugin.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/scripts/Kickstart.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/conf/KickstartConfig.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/conf/kickstart/KickstartFilters.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/conf/KickstartResources.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/KickstartWithBootstrapGrailsPlugin.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/lesscss-resources-1.3.3/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/hibernate-3.6.10.15/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/filter/LazyParamAwareEvaluationContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/lesscss-resources-1.3.3/grails-app/resourceMappers/LesscssResourceMapper.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/lesscss-resources-1.3.3/LesscssResourcesGrailsPlugin.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/mapper/MapperPhase.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/filter/simple/MemoryBlockingCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/filter/simple/MemoryCacheConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/MemoryDocVisitor.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/filter/simple/MemoryPageFragmentCachingFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/MigrationRunner.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/MigrationUtils.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/module/ModuleBuilder.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/module/ModuleDeclarationsFactory.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/module/ModulesBuilder.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/MySQLCompatibleChangeLogSerializer.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/MysqlAwareCreateTableGenerator.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/filter/NoOpFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/NoopVisitor.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/filter/PageFragmentCachingFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/PageInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/src/java/org/grails/plugins/tomcat/ParentDelegatingClassLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/PendingChangesWriter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/PendingSQLWriter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/ProcessingFilter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/RecentChangesWriter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RefugiosPR-grailsPlugins.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RefugiosPR.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/RequestUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/mapper/ResourceMapper.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/java/org/grails/plugin/resources/artefacts/ResourceMapperArtefactHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/java/org/grails/plugin/resources/artefacts/ResourceMapperClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/mapper/ResourceMappersFactory.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/ResourceMeta.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/util/ResourceMetaStore.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/ResourceModule.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/ResourceProcessor.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/ResourceProcessorBatch.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/grails-app/taglib/org/grails/plugin/resource/ResourceTagLib.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/java/org/grails/plugin/resources/artefacts/ResourcesArtefactHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/grails-app/conf/ResourcesBootStrap.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/java/org/grails/plugin/resources/artefacts/ResourcesClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/ResourcesGrailsPlugin.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/templates/scaffolding/RestfulController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/templates/scaffolding/RestfulSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/java/org/codehaus/groovy/grails/scaffolding/view/ScaffoldedGroovyPageView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/templates/artifacts/ScaffoldingController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/ScaffoldingGrailsPlugin.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/java/org/codehaus/groovy/grails/scaffolding/view/ScaffoldingViewResolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/hibernate-3.6.10.15/scripts/SchemaExport.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/artifacts/Script.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/ScriptUtils.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/SerializableByteArrayOutputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/SerializableCookie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/SerializableOutputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/artifacts/Service.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/testing/Service.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/refugiospr/Shelters.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/refugiospr/SheltersController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/refugiospr/SheltersControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/refugiospr/SheltersSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/java/org/codehaus/groovy/grails/scaffolding/SimpleDomainClassPropertyComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/Slf4jLogger.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/scaffolding/Spec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/templates/scaffolding/Spec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/util/StatsManager.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/TableListWriter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/TableWriter.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/artifacts/TagLib.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/testing/TagLib.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/artifacts/Tests.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/Timer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/scripts/Tomcat.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/src/groovy/org/grails/plugins/tomcat/fork/TomcatDevelopmentRunner.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/src/groovy/org/grails/plugins/tomcat/fork/TomcatExecutionContext.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/TomcatGrailsPlugin.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/src/java/org/grails/plugins/tomcat/TomcatKillSwitch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/src/groovy/org/grails/plugins/tomcat/TomcatLoader.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/src/groovy/org/grails/plugins/tomcat/TomcatServer.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/src/groovy/org/grails/plugins/tomcat/TomcatServerFactory.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/src/groovy/org/grails/plugins/tomcat/fork/TomcatWarRunner.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/groovy/org/grails/plugin/resource/URLUtils.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/testing/UnitTest.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/UrlMappings.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/src/java/grails/plugin/cache/web/filter/WebKeyGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/artifacts/WebTest.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/WebxmlGrailsPlugin.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/_DatabaseMigrationCommon.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/domain/kickstart/_DemoPage.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/controllers/kickstart/_DemoPageController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/_Events.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/scripts/_Events.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/scripts/_Events.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/scripts/_Events.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/scripts/_GrailsGenerate.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/_Install.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/scripts/_Install.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/lesscss-resources-1.3.3/scripts/_Install.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/scripts/_Uninstall.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/lesscss-resources-1.3.3/scripts/_Uninstall.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/scripts/_Upgrade.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/lesscss-resources-1.3.3/scripts/_Upgrade.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/src/samples/_WebXmlConfig.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_menu/_admin.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/layouts/_content.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_menu/_controller.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/_coverage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_common/modals/_deleteDialog.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_common/modals/_deleteSymbolLink.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_common/modals/_deleteTextLink.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_common/buttons/_editSymbolLink.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/layouts/_footer.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_DemoPage/_form.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/scaffolding/_form.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/templates/scaffolding/_form.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_globalnav.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/layouts/_header.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_menu/_info.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_menu/_language.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_menu/_menubar.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_menu/_navbar.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_overview-summary.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_common/modals/_registerDialog.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_common/modals/_registerTextLink.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_menu/_search.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_common/buttons/_showSymbolLink.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_stylesheet.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_menu/_submenubar.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_menu/_user.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/siteinfo/about.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_includes/ads.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/unit/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/unit/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/docs-assets/js/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/hibernate-3.6.10.15/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/lesscss-resources-1.3.3/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/login/auth.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/ref/Mappers/baseurl.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/js/locales/bootstrap-datepicker.zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/build/build.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/build/build_standalone.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/ref/Mappers/bundle.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/unit/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/c.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/carousel/carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/unit/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/resources/changelog.template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/kickstart/js/checkboxes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/unit/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/suites/component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/components.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/siteinfo/contact.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/assets/coverage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_DemoPage/create.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/scaffolding/create.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/templates/scaffolding/create.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/css.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/ref/Mappers/csspreprocessor.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/ref/Mappers/cssrewriter.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/customize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/docs-assets/js/customizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/css/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/less/datepicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_layouts/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/login/denied.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/dependencies.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/dependencies.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/lesscss-resources-1.3.3/dependencies.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/dependencies.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/docs-assets/css/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/kickstart/css/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/kickstart/css/docs_1.4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/unit/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/kickstart/css/dummy.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_DemoPage/edit.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/scaffolding/edit.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/templates/scaffolding/edit.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/error.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/css/errors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/ref/Tags/external.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/web-app/GPRESOURCES-207/file1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/web-app/GPRESOURCES-210/file1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/web-app/GPRESOURCES-207/file2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/web-app/GPRESOURCES-210/file2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/web-app/GPRESOURCES-207/file3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/web-app/GPRESOURCES-207/file4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/web-app/GPRESOURCES-207/file5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/docs-assets/js/filesaver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/fmt.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_includes/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/suites/formats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/getting-started.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wrapper/grails-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/grails.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grailsw.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grailsw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/grid/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_includes/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/hibernate-3.6.10.15/src/java/hibernate.cfg.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/docs-assets/js/holder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_layouts/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/docs-assets/js/ie8-responsive-file-warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/ref/Tags/img.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/home/index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/scaffolding/index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/templates/scaffolding/index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/carousel/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/grid/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/jumbotron/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/jumbotron-narrow/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/justified-nav/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/navbar/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/navbar-fixed-top/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/navbar-static-top/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/non-responsive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/offcanvas/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/signin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/starter-template/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/sticky-footer/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/sticky-footer-navbar/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/theme/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/javascript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/web-app/js/jquery/jquery-1.11.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/web-app/js/jquery/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/web-app/js/jquery/jquery-1.11.1.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/assets/jquery-1.7.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/grails-app/assets/javascripts/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/vendor/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/docs-assets/js/jszip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/jumbotron-narrow/jumbotron-narrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/jumbotron/jumbotron.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/justified-nav/justified-nav.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/kickstart/css/kickstart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/layouts/kickstart.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/kickstart/js/kickstart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/ref/Tags/layoutResources.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/docs-assets/js/less.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_DemoPage/list.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/scaffolding/list.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/i18n/messages.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/grails-app/i18n/messages.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_cs_CZ.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_da.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_de.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/i18n/messages_de.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_es.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_fr.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_it.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_ja.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_nb.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_nl.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_pl.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_pt_BR.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_pt_PT.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_ru.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_sv.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_th.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_zh_CN.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/css/mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/assets/mock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/unit/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_includes/nav-about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_includes/nav-components.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_includes/nav-css.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_includes/nav-customize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_includes/nav-getting-started.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_includes/nav-javascript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_includes/nav-main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/navbar-fixed-top/navbar-fixed-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/navbar-static-top/navbar-static-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/navbar/navbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/home/nextSteps.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/non-responsive/non-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/offcanvas/offcanvas.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/offcanvas/offcanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_includes/old-bs-docs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/suites/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/unit/phantom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.2/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/hibernate-3.6.10.15/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/lesscss-resources-1.3.3/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.53/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/unit/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/docs-assets/css/pygments-manni.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/assets/qunit-logging.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/vendor/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/assets/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/vendor/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/assets/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/docs-assets/js/raw-files.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/scaffolding/renderEditor.template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/templates/scaffolding/renderEditor.template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/ref/Tags/require.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/ref/Tags/resource.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/ref/Tags/resourceLink.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/spring/resources.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/run-qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/ref/Tags/script.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/unit/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/_DemoPage/show.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/scaffolding/show.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.0.3/src/templates/scaffolding/show.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/signin/signin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/sitemesh.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/_includes/social-buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/spring-form.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/spring.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/starter-template/starter-template.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/ref/Tags/stash.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/sticky-footer-navbar/sticky-footer-navbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/sticky-footer/sticky-footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/ref/Tags/style.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/siteinfo/systeminfo.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/unit/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/grails-app/views/siteinfo/terms.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/tests.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/examples/theme/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/unit/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/js/tests/unit/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/docs-assets/js/uglify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/resources-1.2.7/src/docs/ref/Tags/use.gdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/datepicker/tests/assets/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/web.xml.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/src/templates/war/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/kickstart-with-bootstrap-1.1.0/web-app/bootstrap/less/wells.less" />
+    </list>
+    <ignored path="RefugiosPR.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$USER_HOME$/.grails/" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="RefugiosPR" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BuildConfig.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="49" selection-start="2813" selection-end="2813" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="1513">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shelters.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/refugiospr/Shelters.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="15" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="46" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="595">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UrlMappings.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="5" selection-start="242" selection-end="242" vertical-scroll-proportion="0.4240363" vertical-offset="0" max-vertical-offset="441">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SheltersController.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/refugiospr/SheltersController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1870">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/refugiospr/Shelters.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1618" />
+    <option name="height" value="870" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Grails.Grails:RefugiosPR">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Grails:RefugiosPR" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
+      <module name="RefugiosPR" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Grails.Grails:RefugiosPR" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b296c42a-2969-4d42-afca-4a86fd30e769" name="Default" comment="" />
+      <created>1401893463760</created>
+      <updated>1401893463760</updated>
+      <workItem from="1401893466712" duration="1364000" />
+      <workItem from="1401895178261" duration="1114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2478000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1618" height="870" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40142858" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.51" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="49" selection-start="2813" selection-end="2813" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/refugiospr/Shelters.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="15" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="46" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/refugiospr/SheltersController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="49" selection-start="2813" selection-end="2813" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="1513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/refugiospr/SheltersController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1853">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/refugiospr/Shelters.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="15" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="46" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="5" selection-start="242" selection-end="242" vertical-scroll-proportion="0.4240363" vertical-offset="0" max-vertical-offset="441">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="grailsSettings">
+    <option name="map">
+      <map>
+        <entry key="RefugiosPR">
+          <value>
+            <GrailsSettings>
+              <option name="buildConfigCrc" value="2125448111" />
+              <option name="pluginDependenciesCrc" value="1907377541" />
+              <option name="properties">
+                <map>
+                  <entry key="grails.global.plugins.dir" value="C:\Users\Yarelis\.grails\2.3.9\global-plugins" />
+                  <entry key="grails.project.plugins.dir" value="target\work\plugins" />
+                  <entry key="grails.project.work.dir" value="target\work" />
+                  <entry key="grails.work.dir" value="C:\Users\Yarelis\.grails\2.3.9" />
+                </map>
+              </option>
+            </GrailsSettings>
+          </value>
+        </entry>
+        <entry key="RefugiosPR-grailsPlugins">
+          <value>
+            <GrailsSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>grails-2.2.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>RefugiosPR</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
